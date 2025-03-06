@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RationalNumbers", "RationalNumbers.csproj", "{CAB80BAC-0E75-490E-99AD-476207AAE56F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RationalNumbersTests", "..\RationalNumbersTests\RationalNumbersTests.csproj", "{D6DC7728-FF02-4229-8B84-FC7686E80EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB80BAC-0E75-490E-99AD-476207AAE56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB80BAC-0E75-490E-99AD-476207AAE56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB80BAC-0E75-490E-99AD-476207AAE56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB80BAC-0E75-490E-99AD-476207AAE56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DC7728-FF02-4229-8B84-FC7686E80EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DC7728-FF02-4229-8B84-FC7686E80EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DC7728-FF02-4229-8B84-FC7686E80EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DC7728-FF02-4229-8B84-FC7686E80EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E139A29-EDC5-4385-8F64-CD7098455E56}
+	EndGlobalSection
+EndGlobal
