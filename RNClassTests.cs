@@ -134,16 +134,5 @@ namespace RationalNumbers.Tests
             Assert.IsTrue(rn1 >= rn2);
         }
 
-        [TestMethod()]
-        public void TimePrintTestEurope()
-        {
-            Assert.Fail();
-        }
-
-        [TestMethod()]
-        public void TimePrintTestAmerican()
-        {
-            Assert.Fail();
-        }
     }
 }
